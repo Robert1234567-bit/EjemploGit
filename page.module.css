@@ -1,4 +1,4 @@
-.main { display: flex; flex-direction: column; justify-content: space-between; align-items: center; padding:
+main { display: flex; flex-direction: column; justify-content: space-between; align-items: center; padding:
   6rem; min-height: 100vh;
   }
   .title2 { color: #333;
@@ -14,8 +14,7 @@
   .button:hover {
   background-color: #45a049;
   } 
-
-  ul {
+  .ul {
     list-style-type: none; padding: 0;
     }
     .li {
